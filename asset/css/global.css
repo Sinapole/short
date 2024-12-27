@@ -1,0 +1,21 @@
+:root {
+    --color-primary: #5c7cfa;
+    --color-primary-dark: #4263eb;
+    --color-primary-alpha: #5c7cfa50;
+
+    --body-color: #495057;
+    --body-bg: #f8f9fa;
+
+    --border-color: #dee2e6;
+}
+
+:root .dark {
+    --color-primary: #265373;
+    --color-primary-dark: #16493c;
+    --color-primary-alpha: rgba(48, 54, 101, 0.31);
+
+    --body-color: #c3c3c3;
+    --body-bg: #303030;
+
+    --border-color: #373737;
+}
